@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'test-iris111111'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2B588754F8E5475F859B3DA372FF8CA9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8599B53241EE4843AF919733A099432A }}
